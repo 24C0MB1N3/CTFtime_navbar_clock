@@ -42,14 +42,6 @@ The **CTF Clock Extension** is a simple browser extension that adds a UTC clock 
 
 Once installed, the UTC clock will automatically appear in the navigation bar of the CTFtime website. The clock updates every second to reflect the current UTC time.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgments
 
 - Thanks to the CTFtime community for providing a platform for CTF enthusiasts.
