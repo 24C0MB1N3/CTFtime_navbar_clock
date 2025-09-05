@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "CTF Clock",
+    "version": "1.0",
+    "description": "Adds a UTC clock to the navbar on CTFtime.org.",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+            "matches": ["https://ctftime.org/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": {
+        "48": "icon.png"
+    }
+}
